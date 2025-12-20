@@ -15,3 +15,11 @@
 
 تقديم معلومات دقيقة وموثوقة تساعد إدارة التدريب التطوعي على تحسين الأداء وإثبات أثرها.
 
+
+
+## ملفات التقارير
+
+للاطلاع على التقارير الخاصة بقسم التقارير ومؤشرات الأداء، يمكن زيارة الروابط التالية:
+
+- [التقرير الأول](https://drive.google.com/file/d/19QB0HGdwgh4PKnCpcPo4f92lObHx4T9y/view?usp=drivesdk)
+- [التقرير الثاني](https://drive.google.com/file/d/1IBZNXj62ZCpIBjr3fi-4CudWVaHuOa38/view?usp=drivesdk)
